@@ -1,0 +1,98 @@
+#logo {
+    
+    font-size: 80px;
+    
+}
+
+* {
+    
+    text-align: center;
+    font-family: think, Helvetica, sans-serif;
+    
+}
+
+.space {
+    
+    font-weight: bold;
+    font-size: 25px;
+    width: 300px;
+    
+}
+
+.blue {
+    
+    color: DodgerBlue;
+    
+}
+
+input {
+    
+  background-color: #efefef;
+  border: groove;
+  border-width: 0.5px;
+  color: black;
+  padding: 5px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 1px 20px;
+  cursor: pointer;
+  
+}
+
+img {
+    
+    padding-left: 45px;
+    padding-top: 35px;
+    
+}
+
+#light:hover {
+    
+    background-color: #e9e9e9;
+    
+}
+
+.textbox {
+    
+    height: 35px;
+    width: 200px;
+    font-size: 25px;
+    
+}
+
+.btn1 {
+    
+    height: 35px;
+    
+}
+
+.firsttext {
+    
+    font-size: 25px;
+    
+}
+
+.bgModal {
+    
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+    
+}
+
+.modalContent {
+    
+    width: 1000px;
+    height: 200px;
+    opacity: 1;
+    
+}
